@@ -89,10 +89,29 @@ bash
 Copy
 Edit
 
-#### 3. **Screenshots**
-Add a folder like `/screenshots` and use:
-```markdown
-## 🖼️ Sample Outputs
+
+
+
+Open terminal and run:
+
+bash
+Copy
+Edit
+cd customer-support-analysis
+
+# Initialize git if not already
+git init
+
+# Connect to your GitHub repo
+git remote add origin https://github.com/Parimala3/customer-support-analysis.git
+
+# Stage and commit all files
+git add .
+git commit -m "Initial commit - Customer Support Ticket Analysis"
+
+# Push the code
+git branch -M main
+git push -u origin main
 
 
 
