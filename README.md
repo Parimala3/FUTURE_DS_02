@@ -103,7 +103,7 @@ cd customer-support-analysis
 git init
 
 # Connect to your GitHub repo
-git remote add origin https://github.com/Parimala3/customer-support-analysis.git
+git remote add origin https://github.com/Parimala3/FUTURE_DS_02.git
 
 # Stage and commit all files
 git add .
