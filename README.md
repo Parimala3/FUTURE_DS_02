@@ -94,5 +94,5 @@ Add a folder like `/screenshots` and use:
 ```markdown
 ## 🖼️ Sample Outputs
 
-![Ticket Type Frequency](screenshots/ticket_type_chart.png)
-![Word Cloud](screenshots/wordcloud.png)
+
+
